@@ -5,7 +5,8 @@ body {
 }
 
 #message {
-    background-color: #ec407a;
+    background-color: hsl(340, 82%, 59%);
+    background-image: linear-gradient(to top, hsl(340, 82%, 59%), hsl(340, 90%, 70%));
     height: 100%;
     width: 100%;
     display: flex;
