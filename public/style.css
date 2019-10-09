@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#message {
+    background-color: #ec407a;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#brand-name {
+    font-family: 'Pacifico', cursive;
+    font-size: 10em;
+    color: white;
+    margin: 0;
+}
