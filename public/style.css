@@ -20,3 +20,15 @@ body {
     color: white;
     margin: 0;
 }
+
+@media only screen and (max-width: 768px) {
+    #brand-name {
+        font-size: 8em;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    #brand-name {
+        font-size: 6em;
+    }
+}
